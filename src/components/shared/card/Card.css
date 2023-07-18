@@ -1,0 +1,11 @@
+.card-item {
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  .card-item-title:hover {
+      text-decoration: underline;
+  }
+  .card-item-subtitle {
+    font-size: 1rem;
+  }
+  
